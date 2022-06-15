@@ -10,7 +10,6 @@ public class Main_POS extends JFrame {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int a;
 		Main_POS mainPOS = new Main_POS();
 		mainPOS.setTitle("POS system");
 
